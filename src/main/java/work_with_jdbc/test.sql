@@ -1,0 +1,1 @@
+insert into users (login, password, address, phone) values ('bbb', 'bbb', 'bbb', 89603472617);

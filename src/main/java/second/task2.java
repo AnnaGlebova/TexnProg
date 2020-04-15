@@ -10,6 +10,7 @@ public class task2 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите количество элементтов:");
         int n = scanner.nextInt();
+
         System.out.println("Введите элементы:");
         ArrayList<Integer> list = new ArrayList<>();
         int sum = 0;
